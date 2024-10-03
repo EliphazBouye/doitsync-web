@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      DoItSync web 
+    <div className="text-3xl font-bold underline">
+      DoItSync web. 
     </div>
   );
 }
